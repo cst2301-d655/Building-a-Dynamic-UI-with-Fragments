@@ -3,7 +3,7 @@ To create a dynamic and multi-pane user interface on Android, you need to encaps
 
 Please follow these steps:
 
-2. Visit the second section of the [Android training website][android-training], [Managing the Activity Lifecycle][lesson]. For this assignment, you will be completing the "[Creating a Fragment](http://developer.android.com/training/basics/fragments/creating.html)," "[Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)," and "[Communicating with Other Fragments](http://developer.android.com/training/basics/fragments/communicating.html)" sections.
+2. Visit the second section of the [Android training website][android-training], [Building a Dynamic UI with Fragments][lesson]. For this assignment, you will be completing the "[Creating a Fragment](http://developer.android.com/training/basics/fragments/creating.html)," "[Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)," and "[Communicating with Other Fragments](http://developer.android.com/training/basics/fragments/communicating.html)" sections.
 3. Follow all the instructions of each section. **NOTE:** You must download the [Android Studio](https://developer.android.com/sdk/index.html) to work on this assignment. Please let me know if you have any trouble doing so.
 4. [**Initialize** a git repository][ref-init] on the project you create in the studio.
 5. [**Commit**][ref-commit] changes that you made to complete your solution.
