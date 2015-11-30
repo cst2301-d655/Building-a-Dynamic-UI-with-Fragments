@@ -5,7 +5,7 @@ Please follow these steps:
 
 2. Visit the second section of the [Android training website][android-training], [Building a Dynamic UI with Fragments][lesson]. For this assignment, you will be completing the "[Creating a Fragment](http://developer.android.com/training/basics/fragments/creating.html)," "[Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)," and "[Communicating with Other Fragments](http://developer.android.com/training/basics/fragments/communicating.html)" sections.
 3. Follow all the instructions of each section. **NOTE:** You may need to download the [Android Studio](https://developer.android.com/sdk/index.html) to work on this assignment. Please let me know if you have any trouble doing so.
-4. Add *at least one fragment to your final project*. Upload your project to Blackboard.
+4. Add **at least one fragment to your final project**. Upload your project to Blackboard.
 
 *NOTE:* Use the emulator to test your work if you do not have an Android device handy. 
 
