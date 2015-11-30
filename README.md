@@ -5,13 +5,6 @@ Please follow these steps:
 
 2. Visit the second section of the [Android training website][android-training], [Building a Dynamic UI with Fragments][lesson]. For this assignment, you will be completing the "[Creating a Fragment](http://developer.android.com/training/basics/fragments/creating.html)," "[Building a Flexible UI](http://developer.android.com/training/basics/fragments/fragment-ui.html)," and "[Communicating with Other Fragments](http://developer.android.com/training/basics/fragments/communicating.html)" sections.
 3. Follow all the instructions of each section. **NOTE:** You must download the [Android Studio](https://developer.android.com/sdk/index.html) to work on this assignment. Please let me know if you have any trouble doing so.
-4. [**Initialize** a git repository][ref-init] on the project you create in the studio.
-5. [**Commit**][ref-commit] changes that you made to complete your solution.
-4. [**Fork** this repository][forking] on GitHub into your own account. Grab the https URL that contains your username, as usual.
-5. [**Pull** the forked repository][ref-pull] into your local one. This step is a little different than before because here you are creating a project from scratch. When I give you starter code, normally, you would [clone it][ref-clone]. Since you created a project from scratch, this step links your local repository to the one you forked on GitHub.
-6. [**Push**][ref-push]/sync the changes up to GitHub.
-7. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
-8. Submit your GitHub **username** on [Blackboard][blackboard].
 
 *NOTE:* Use the emulator to test your work if you do not have an Android device handy. 
 
